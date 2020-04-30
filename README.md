@@ -80,7 +80,7 @@
 
 3. Trajectory at any point in space
 
-![Trajectory](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/bloch.gif)
+![Trajectory](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/blochh.gif)
 
 4. K-Space
 
@@ -88,4 +88,4 @@
 
 5. Effect of Non-uniform magnetic field
 
-![Non Uniform](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/NU_Effect.JPG)
+![Non Uniform](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/Nonuniform.png)
