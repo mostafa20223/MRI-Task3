@@ -70,4 +70,22 @@
     T2: Decay Time
 
 ## Results for Task3
+1. Trajectory 2-D "Oil"
 
+![Oil Behaviour](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/Oil.JPG)
+
+2. Trajectory 2-D "Water"
+
+![Water Behaviour](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/Water.JPG)
+
+3. Trajectory at any point in space
+
+![Trajectory](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/bloch.gif)
+
+4. K-Space
+
+![K Space](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/K_Space.JPG)
+
+5. Effect of Non-uniform magnetic field
+
+![Non Uniform](https://github.com/mostafa20223/MRI-Task3/blob/master/Results/NU_Effect.JPG)
